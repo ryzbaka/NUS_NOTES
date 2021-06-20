@@ -36,4 +36,6 @@ git clone https://github.com/ryzbaka/DataVizTutSeries
 
 #### Further Reading
 
-- [What is EDA by Prasad Patil](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
+- [What is EDA by Prasad Patil [Blog Post]](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
+- [Best Practices for Data Visualisation [Blog Post]](https://www.gooddata.com/blog/5-data-visualization-best-practices-0/)
+- [Beauty of Data Visualisation by David McCandless [TED Talk]](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
