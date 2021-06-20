@@ -2,12 +2,12 @@
 
 ## Exploratory Data Analytics
 
-    * The process of performing initial investigations on data so as to discover patterns, spot anomalies, test hypothesis and check assumptions with the help of either summary statistics or graphical representations (data visualisation).
+- The process of performing initial investigations on data so as to discover patterns, spot anomalies, test hypothesis and check assumptions with the help of either summary statistics or graphical representations (data visualisation).
 
 ### Charts in Python
 
-    * Lets explore how to generate a few commonly used graphs in Python.
-    * You can download the associated Jupyter Notebook and datasets <a href="https://github.com/ryzbaka/DataVizTutSeries">here</a>.
+- Lets explore how to generate a few commonly used graphs in Python.
+- You can download the associated Jupyter Notebook and datasets <a href="https://github.com/ryzbaka/DataVizTutSeries">here</a>.
 
 #### How to use the notebook?
 
@@ -28,7 +28,12 @@ git clone https://github.com/ryzbaka/DataVizTutSeries
 
 5.<a href="https://github.com/ryzbaka/DataVizTutSeries/blob/master/Data%20Visualisation/Distributions.ipynb">Distribution Plots</a>
 
+### Querying Data using Pandas
+
+### Statistical Methods for Summarizing Data (using Python)
+
+### Pivot Tables in Pandas
+
 #### Further Reading
 
-    * [What is EDA by Prasad Patil](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
-    *
+- [What is EDA by Prasad Patil](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
