@@ -1,4 +1,5 @@
 # NUS Session Notes for GAIP
+[Day 1](/day1)
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ryzbaka/NUS_NOTES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
