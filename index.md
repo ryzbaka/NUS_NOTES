@@ -1,4 +1,4 @@
-# NUS-HPE Session Notes for GAIP
+# NUS Session Notes for GAIP
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ryzbaka/NUS_NOTES/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
